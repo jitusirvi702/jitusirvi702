@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jitendra-choudhary-96640a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jitendra-choudhary-96640a22a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jitendra-choudhary-96640a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jitendra-choudhary-96640a22a/" height="30" width="40" /></a>
 <a href="https://instagram.com/jitusirvi702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitusirvi702" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/royal creator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="royal creator" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@jsirvibali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jsirvibali" height="30" width="40" /></a>
+<a href="https://www.youtube.com/royalcreator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="royal creator" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/jsirvibali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jsirvibali" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/@jsirvibali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@jsirvibali" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jsirviwrn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jsirviwrn7" height="30" width="40" /></a>
 </p>
